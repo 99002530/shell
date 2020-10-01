@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Downloads/LTTS-Training-master/Set 1 and 2/Box Program/box.cc
+iostream
+-
+box.h
+/home/user/Downloads/LTTS-Training-master/Set 1 and 2/Box Program/box.h
+
+/home/user/Downloads/LTTS-Training-master/Set 1 and 2/Box Program/box.h
+string
+-
+
+/home/user/Downloads/LTTS-Training-master/Set 1 and 2/Box Program/box_test.cc
+box.cc
+/home/user/Downloads/LTTS-Training-master/Set 1 and 2/Box Program/box.cc
+gtest/gtest.h
+-
+
